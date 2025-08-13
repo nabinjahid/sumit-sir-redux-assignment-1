@@ -29,7 +29,7 @@ It allows you to add matches, increment/decrement scores, delete matches, and re
 ## 📂 Project Structure
 ├── index.html # Main HTML file
 ├── style.css # Styles for the app
-├── script.js # Application logic with Redux
+├── index.js # Application logic with Redux
 └── README.md # Project documentation
 
 
